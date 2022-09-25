@@ -1,6 +1,6 @@
 module.exports = {
-  "dark": {
-    primary: '#38bdf8',
+  dark: {
+    primary: "#38bdf8",
     secondary: "#D926AA",
     accent: "#1FB2A5",
     neutral: "#191D24",
@@ -10,8 +10,8 @@ module.exports = {
     warning: "#ffd96a",
     error: "#ff7c9d",
   },
-  "light": {
-    primary: '#2563eb',
+  light: {
+    primary: "#2563eb",
     secondary: "#D926AA",
     accent: "#1FB2A5",
     neutral: "#191D24",

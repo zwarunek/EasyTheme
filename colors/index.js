@@ -1,4 +1,3 @@
-
 function withOpacityValue(variable, fallbackColor) {
   return ({ opacityValue }) => {
     let fallbackColorValue = "";
